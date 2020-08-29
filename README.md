@@ -32,7 +32,6 @@ The module follows the ``MAJOR.MINOR.PATCH`` style:
 * ``MINOR`` version when you add functionality in a backwards compatible manner, and
 * ``PATCH`` version when you make backwards compatible bug fixes.
 
-
 .. |latest-version| image:: https://img.shields.io/pypi/v/semver.svg
    :alt: Latest version on PyPI
    :target: https://pypi.org/project/semver
